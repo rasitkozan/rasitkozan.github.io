@@ -53553,7 +53553,7 @@ else s.e=s.d},
 $S:1}
 G.zX.prototype={
 F:function(a,b){var s=null
-return M.cg(s,U.fG("assets/images/person.png",s,s,s),C.l,s,new S.ao(0,1080,0,2040),s,s,s,s,s,s,s,s)}}
+return M.cg(s,U.fG("assets/images/person.png",s,s,s),C.l,s,new S.ao(0,920,0,1600),s,s,s,s,s,s,s,s)}}
 G.BX.prototype={
 F:function(a,b){var s=null,r=b.a7(t.l).f,q=X.Kn(C.jb,new L.he("assets/images/background.png",s,s))
 return M.cg(C.a5,M.cg(s,T.kY(C.f3,H.d([new V.yV(r.a,s),T.r1(0,new G.zX(s),s,s,s,0,s,s),T.r1(0,new D.qr(s),s,s,s,s,s,s)],t.t),C.cl),C.l,s,s,s,s,s,new V.a7(0,20,0,0),s,s,s,1200),C.l,s,new S.ao(0,1/0,700,900),new S.bI(s,q,s,s,s,s,C.z),s,s,s,s,s,s,1/0)}};(function aliases(){var s=H.Gd.prototype
