@@ -53518,12 +53518,12 @@ $1:function(a){return new R.kR(a,null)},
 $S:319}
 U.yk.prototype={
 F:function(a,b){var s=null,r=K.ed(10),q=P.abX(10,10),p=P.au(0,255,255,255)
-return new T.wU(r,new T.wA(q,M.cg(s,T.d4(H.d([L.bR("Hello There!",s,s,s,K.aD(b).U.e.dJ(C.j),s),L.bR("Ra\u015fit \nKozan",s,s,s,A.cR(s,s,C.j,s,s,s,s,s,s,s,s,100,s,C.aG,s,1.5,!0,s,s,s,s,s,s),s),L.bR("Computer Science",s,s,s,K.aD(b).U.e.dJ(C.j),s)],t.t),C.bl,C.fP),C.l,p,new S.ao(0,1110,0,this.c.b*0.7),s,s,s,s,new V.a7(40,0,40,0),s,s,1/0),s),s)}}
+return new T.wU(r,new T.wA(q,M.cg(s,T.d4(H.d([L.bR("Hello There!",s,s,s,K.aD(b).U.e.dJ(C.j),s),L.bR("Ra\u015fit \nKozan",s,s,s,A.cR(s,s,C.j,s,s,s,s,s,s,s,s,75,s,C.aG,s,1.5,!0,s,s,s,s,s,s),s),L.bR("Computer Science",s,s,s,K.aD(b).U.e.dJ(C.j),s)],t.t),C.bl,C.fP),C.l,p,new S.ao(0,1110,0,this.c.b*0.7),s,s,s,s,new V.a7(40,0,40,0),s,s,1/0),s),s)}}
 V.yV.prototype={
 F:function(a,b){var s=null
 return T.d4(H.d([U.fG("assets/images/Logo.png",s,s,s),new R.rL(1,s),new U.yk(this.c,s),new R.rL(3,s)],t.t),C.bl,C.X)}}
 D.qr.prototype={
-aw:function(){return new D.EL(H.d(["Home","Abour","Services","Portfolio","Testimonial","Contact"],t.i),C.k)}}
+aw:function(){return new D.EL(H.d(["Home","About","Services","Portfolio","Testimonial","Contact"],t.i),C.k)}}
 D.EL.prototype={
 F:function(a,b){var s=null,r=H.d([$.a2U()],t.ec)
 return M.cg(s,T.f1(P.yP(6,new D.Xv(this),!0,t.Cw),C.fQ),C.l,s,new S.ao(0,1110,0,1/0),new S.bI(C.j,s,s,new K.c3(new P.bp(10,10),new P.bp(10,10),C.E,C.E),r,s,C.z),s,100,s,new V.a7(50,0,50,0),s,s,s)},
@@ -53553,7 +53553,7 @@ else s.e=s.d},
 $S:1}
 G.zX.prototype={
 F:function(a,b){var s=null
-return M.cg(s,U.fG("assets/images/person.png",s,s,s),C.l,s,new S.ao(0,639,0,860),s,s,s,s,s,s,s,s)}}
+return M.cg(s,U.fG("assets/images/person.png",s,s,s),C.l,s,new S.ao(0,720,0,1080),s,s,s,s,s,s,s,s)}}
 G.BX.prototype={
 F:function(a,b){var s=null,r=b.a7(t.l).f,q=X.Kn(C.jb,new L.he("assets/images/background.png",s,s))
 return M.cg(C.a5,M.cg(s,T.kY(C.f3,H.d([new V.yV(r.a,s),T.r1(0,new G.zX(s),s,s,s,0,s,s),T.r1(0,new D.qr(s),s,s,s,s,s,s)],t.t),C.cl),C.l,s,s,s,s,s,new V.a7(0,20,0,0),s,s,s,1200),C.l,s,new S.ao(0,1/0,700,900),new S.bI(s,q,s,s,s,s,C.z),s,s,s,s,s,s,1/0)}};(function aliases(){var s=H.Gd.prototype
@@ -57244,8 +57244,8 @@ return O.a3m(50,C.o.GB(0.1),p,0)})
 q($,"ako","a9i",function(){var p=$.a9j()
 return new L.pV(p,p,p)})
 q($,"akp","a9j",function(){return F.acs(C.pq,Y.aaG(P.iB(4291749117),C.H,1),4)})
-q($,"akk","Iy",function(){var p="Ronald Thompson",o="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua enim ad minim veniam.",n="assets/images/people.png"
-return H.d([R.a0W(P.iB(4294964189),1,p,o,n),R.a0W(P.iB(4292476924),2,p,o,n),R.a0W(P.iB(4294959328),3,p,o,n)],H.a0("r<xZ*>"))})
+q($,"akk","Iy",function(){var p="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua enim ad minim veniam.",o="assets/images/people.png"
+return H.d([R.a0W(P.iB(4294964189),1,"RK",p,o),R.a0W(P.iB(4292476924),2,"RK",p,o),R.a0W(P.iB(4294959328),3,"RK",p,o)],H.a0("r<xZ*>"))})
 q($,"akv","a2W",function(){var p="New & Fresh Looking Portfolio indeed at the end",o="Graphic Design"
 return H.d([K.Qk(o,1,"assets/images/work_1.png",p),K.Qk(o,2,"assets/images/work_2.png",p),K.Qk(o,3,"assets/images/work_3.png",p),K.Qk(o,4,"assets/images/work_4.png",p)],H.a0("r<Ag*>"))})
 q($,"akx","a0q",function(){return H.d([N.S5(P.iB(4292476924),1,"assets/images/graphic.png","Graphic Design"),N.S5(P.iB(4293197767),2,"assets/images/desktop.png","Web Design"),N.S5(P.iB(4294964189),3,"assets/images/ui.png","UI Design"),N.S5(P.iB(4294959328),4,"assets/images/Intreaction_design.png","Interaction Design")],H.a0("r<Be*>"))})})();(function nativeSupport(){!function(){var s=function(a){var m={}
